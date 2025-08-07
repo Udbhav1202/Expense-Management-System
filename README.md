@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # G-14-Expense-Management-System
 <br>
 Live Project Link - https://expense-react-ashy.vercel.app/
@@ -33,3 +34,6 @@ This project showcases modern web development practices including component-base
 architecture, RESTful API design, and responsive UI implementation. It demonstrates the practical
 application of full-stack development skills while creating a useful tool for everyday financial
 management.
+=======
+# Expense-Management-System
+>>>>>>> ceed1f8d524a5fbd5f6b29e0ed2f9ab7e88e7954
